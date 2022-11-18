@@ -57,6 +57,7 @@
     * [Factorial](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/factorial.jl)
     * [Fibonacci](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/fibonacci.jl)
     * [Krishnamurthy Number](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/krishnamurthy_number.jl)
+    * [Least Common Multiple](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/least_common_multiple.jl)
     * [Line Length](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/line_length.jl)
     * [Mersenne Prime](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/mersenne_prime.jl)
     * [Monte Carlo Integration](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/monte_carlo_integration.jl)
@@ -73,6 +74,7 @@
     * [Sum Of Arithmetic Series](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/sum_of_arithmetic_series.jl)
     * [Sum Of Geometric Progression](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/sum_of_geometric_progression.jl)
     * [Trapezoid Integration](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/trapezoid_integration.jl)
+    * [Two Sum](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/two_sum.jl)
     * [Verlet](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/verlet.jl)
     * [Volume](https://github.com/TheAlgorithms/Julia/blob/HEAD/src/math/volume.jl)
   * Matrix
