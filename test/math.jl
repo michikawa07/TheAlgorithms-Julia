@@ -435,4 +435,15 @@
         @test least_common_multiple(12, 76) == 228
         @test least_common_multiple(5, -10) == 10
     end
+
+    @testset "Math: Two Sum" begin
+        @test two_sum([2, 7, 11, 15], 9) ==  (1, 2)
+        @test two_sum([15, 2, 11, 7], 13) == (2, 3)
+        @test two_sum([2, 7, 11, 15], 17) == (1, 4)
+        @test two_sum([7, 15, 11, 2], 18) == (1, 3)
+        @test two_sum([2, 7, 11, 15], 26) == (3, 4)
+        @test two_sum([0, 10, 6, 6, 9], 12) == (3, 4)
+        @test two_sum([2, 7, 11, 15], 8) == ()
+        @test two_sum([3 * i for i in 1:10], 19) == ()
+    end
 end
